@@ -41,9 +41,9 @@ This will return the prediction as a floating point number between 0 and 1. If t
 Please follow the below links for more details and for the resources used in this project.
 
 1. [Presentation](https://www.youtube.com/)
-2. [Presentation slides](https://www.youtube.com/)
-3. [Report](https://www.youtube.com/)
-4. [Dataset](https://www.youtube.com/)
+2. [Presentation slides](https://drive.google.com/drive/folders/1qkOowiAIAxT5FCGa9zPCnAdUYZLIaSvf?usp=drive_link)
+3. [Report](https://drive.google.com/drive/folders/1EY1eXZzhzGRZ3hmWlTA-qHdtICuhy4Rm?usp=drive_link)
+4. [Dataset](https://drive.google.com/drive/folders/1jbgUeYK5d7jNre56BXjcqfuunMPHeVR2?usp=drive_link)
 5. [Demo](https://www.youtube.com/)
 
 ## Credits
